@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Viper Cut Loose: Razer’s Wireless Gaming Mouse For Claw and Fingertip Users
 
-You can use the [editor on GitHub](https://github.com/nazgarr/Razer/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Let’s face it: 
+Losing sucks.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I used to tell myself that it was just me. 
+That I wasn’t good. That in time I would get there.
+And it was true. 
+I did get better… 
 
-### Markdown
+But I still felt off…
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+That is, until I found the Razer Viper Ultimate.
 
-```markdown
-Syntax highlighted code block
+### Feel and Form 
 
-# Header 1
-## Header 2
-### Header 3
+The feel of the mouse is nothing short of impeccable for my plays. Complementing my fingertip grip perfectly, the mouse’s symmetrical divots contour to my hand, allowing my thumb and ring finger to push the mouse wherever I desire with ease for precise movements and twitch reactions. 
 
-- Bulleted
-- List
+### Wireless Venom
 
-1. Numbered
-2. List
+Now the part I was most skeptical about. Though I was doubtful at first about coupling wireless technology with the high degree of intensity that a gaming mouse needs, I realized that Razer’s Wireless Technology is everything I hoped it would be and more. It works flawlessly, and surprisingly, it feels liberating to just move the mouse wherever I wanted without wire resistance. Now I could just feel the mouse, only 74 grams and nothing else to flex and move at will. 
 
-**Bold** and _Italic_ and `Code` text
+### Click and Connect
 
-[Link](url) and ![Image](src)
-```
+Working under Razer’s Optical Switches, the click’s slight firmness makes every connect on screen that much more precise and satisfying, heightening my senses to what’s going on after each kill and movement on screen.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### A Bit of the Lifestyle
 
-### Jekyll Themes
+And though it has nothing to do with winning, the charging dock gives my PC setup a different look. It’s no longer just a setup. It’s evolved into the station where you know once you sit down, you’re about to game hard. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nazgarr/Razer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+And it was from then on that I understood: 
+You don’t buy this mouse because it’s the trend, 
+You buy this mouse to win. 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### P.S. It just so happens that right now, the mouse is on sale, but only for a limited time, so act now because the serious gamer deserves to play at their full potential, not wasting their time and money. 
+ 
