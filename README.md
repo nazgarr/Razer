@@ -32,5 +32,5 @@ And it was from then on that I understood:
 You don’t buy this mouse because it’s the trend, 
 You buy this mouse to win. 
 
-### P.S. It just so happens that right now, the mouse is on sale, but only for a limited time, so act now because the serious gamer deserves to play at their full potential, not wasting their time and money. 
+#### P.S. It just so happens that right now, the mouse is on sale, but only for a limited time, so act now because the serious gamer deserves to play at their full potential, not wasting their time and money. 
  
