@@ -1,7 +1,7 @@
 # Viper Cut Loose: Razer’s Wireless Gaming Mouse For Claw and Fingertip Users
 
 Let’s face it: 
-Losing sucks.
+losing sucks.
 
 I used to tell myself that it was just me. 
 That I wasn’t good. That in time I would get there.
